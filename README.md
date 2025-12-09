@@ -164,6 +164,4 @@ fitness-tracker/
 - Nutrition tracking
 - Mobile app version
 
-## License
 
-MIT License - Feel free to use this project for learning or as a starting point for your own fitness application.
